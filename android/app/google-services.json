@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162402924007",
+    "project_id": "angel10ids1-app-a5b7f",
+    "storage_bucket": "angel10ids1-app-a5b7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162402924007:android:93d652f1a9d0199db7f942",
+        "android_client_info": {
+          "package_name": "com.example.angel10ids1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7bkDWSNNXvtJ7SjLScKHGISUAgKNjvZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

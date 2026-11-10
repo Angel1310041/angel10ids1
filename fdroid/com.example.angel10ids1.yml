@@ -1,0 +1,28 @@
+Categories:
+  - Phone & SMS
+  - Productivity
+License: MIT
+AuthorName: Angel Chavez
+SourceCode: https://github.com/tu-usuario/angel10ids1
+IssueTracker: https://github.com/tu-usuario/angel10ids1/issues
+
+AutoName: Gestión de Clientes UTTEC
+Summary: Aplicación móvil de gestión de clientes, PokéAPI, contactos y escáner QR.
+Description: |-
+  Aplicación móvil desarrollada en Flutter que incluye:
+  - Autenticación con Firebase Auth y persistencia local con SharedPreferences.
+  - CRUD de Clientes y Clasificaciones en tiempo real con Cloud Firestore.
+  - Consumo de API REST pública de Pokémon (PokéAPI).
+  - Integración de contactos del dispositivo con envío de bienvenida a la UTTEC por WhatsApp.
+  - Lector de código de barras y códigos QR con apertura automática de URLs.
+
+RepoType: git
+Repo: https://github.com/tu-usuario/angel10ids1.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    subdir: lib
+    srclib:
+      - flutter
