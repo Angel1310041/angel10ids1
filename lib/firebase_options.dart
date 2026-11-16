@@ -66,7 +66,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '162402924007',
     projectId: 'angel10ids1-app-a5b7f',
     storageBucket: 'angel10ids1-app-a5b7f.firebasestorage.app',
-    iosBundleId: 'com.example.angel10ids1',
+    iosBundleId: 'mx.edu.uttec.angel10ids1',
   );
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'YOUR-API-KEY',
@@ -74,6 +74,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: 'YOUR-SENDER-ID',
     projectId: 'YOUR-PROJECT-ID',
     storageBucket: 'YOUR-PROJECT-ID.appspot.com',
-    iosBundleId: 'com.example.angel10ids1',
+    iosBundleId: 'mx.edu.uttec.angel10ids1',
   );
 }
